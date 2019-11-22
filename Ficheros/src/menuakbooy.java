@@ -14,7 +14,7 @@ public class menuakbooy {
 				+ "2 - Resta\n"
 				+ "3 - Multiplicación\n"
 				+ "4 - División\n"
-				);
+				+ "5 - Factorial (primer número)");
 		numfinal = -1;
 		int eleccion = Integer.parseInt(scan.nextLine());
 		if (eleccion == 1) {
